@@ -1,0 +1,14 @@
+{
+    // parserOptions： 解析选项的配置
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "rules": {
+        "semi": "off"
+        // "no-console": "error"
+    }
+}
